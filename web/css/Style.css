@@ -1,0 +1,75 @@
+.FtImg {
+    position: absolute;
+    bottom: -300px;
+    left: 0;
+    width: 40%;
+    height: auto;
+}
+
+.nav-link{
+	margin-right: 1.5rem;
+}
+
+.pic{
+	top: 0;
+	position: sticky;
+	
+}
+
+.footer{
+    
+    
+}
+
+.navbar{
+	position: fixed;
+	z-index: 99;
+    width:100%;
+}
+
+.introduct-style{
+    padding: 2.5rem;
+    padding-top: 5rem;
+    
+}
+
+.intro-picture{
+    padding-left: 10%;
+}
+
+.intro-txt{
+    margin: auto;
+    font-size: 16pt;
+    text-align: justify;
+}
+
+.intro-block{
+    margin-bottom: 7rem;
+    
+}
+body{
+    font-family: 'Noto Sans TC', sans-serif;
+    
+}
+
+footer{
+    background-color: #E4E4E4;
+    padding-top: 20px
+}
+
+.navbar{
+    background-image: url(../images/try.png);
+}
+
+.last-txt{
+    margin: auto;
+    text-align: justify;
+    font-size: 14pt;
+    
+    
+    
+    
+    
+}
+
+
